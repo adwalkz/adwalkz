@@ -9,12 +9,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/adwalkz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adityajain" height="30" width="40" /></a>
+<--a href="https://dev.to/adwalkz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adityajain" height="30" width="40" /></a-->
 <a href="https://linkedin.com/in/aditya-jain-web3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-jain-web3" height="30" width="40" /></a>
-<a href="https://instagram.com/aducators" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aducators" height="30" width="40" /></a>
+<a href="https://instagram.com/codewithadityajain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aducators" height="30" width="40" /></a>
 <a href="https://medium.com/@adwalkz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aditya-jain" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/aducators" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aducators" height="30" width="40" /></a>
-<a href="https://discord.gg/JPAPVqam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JPAPVqam" height="30" width="40" /></a>
+<--a href="https://discord.gg/JPAPVqam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JPAPVqam" height="30" width="40" /></a-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
